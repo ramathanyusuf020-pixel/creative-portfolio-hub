@@ -31,11 +31,9 @@ function Hero() {
 
       </div>
 
-      <div className="hero-image">
-        <div className="image-placeholder">
-          <span>YOUR PHOTO</span>
-        </div>
-      </div>
+      
+        
+      
     </section>
   );
 }
